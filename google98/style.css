@@ -1,0 +1,24 @@
+.alt-kisim{
+    text-align: center; 
+    float:left;
+    background-color:aquamarine; 
+    width:33%;
+    height: 150px;}
+
+.input1{
+    margin-left: 40%; 
+    width: 10%;
+}
+
+.input2{
+    margin-left:20px;
+    width: 10%;
+}
+
+#photo{
+    width: 100%; height: 300px; text-align: center; margin-top: 150px;
+}
+
+#search{
+    width: 33.3333%; margin-left: 33.3333%;
+}
